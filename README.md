@@ -30,11 +30,8 @@ container removal.
 3. Container recreated with same volume
 4. Data verified as persistent
 
-## Deliverables
-- Volume and network configuration
-- Screenshots of volume and network inspection
-- Data persistence proof screenshots
-
 ## Final Outcome
 Clear understanding of Docker volumes, networks,
 and container data persistence.
+
+
